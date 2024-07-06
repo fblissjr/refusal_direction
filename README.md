@@ -1,5 +1,5 @@
 # Refusal in Language Models Is Mediated by a Single Direction
-
+- gemma2 maybe working?
 **Content warning**: This repository contains text that is offensive, harmful, or otherwise inappropriate in nature.
 
 This repository contains code and results accompanying the paper "Refusal in Language Models Is Mediated by a Single Direction".
